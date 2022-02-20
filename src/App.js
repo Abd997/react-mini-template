@@ -1,5 +1,3 @@
-const App = () => {
-	return <div></div>;
+export default function App() {
+	return <div>React mini template</div>;
 };
-
-export default App;
